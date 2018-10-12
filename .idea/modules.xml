@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wcwoa.iml" filepath="$PROJECT_DIR$/wcwoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wcwoa-common/wcwoa-common.iml" filepath="$PROJECT_DIR$/wcwoa-common/wcwoa-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wcwoa-manager/wcwoa-manager.iml" filepath="$PROJECT_DIR$/wcwoa-manager/wcwoa-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wcwoa-web/wcwoa-web.iml" filepath="$PROJECT_DIR$/wcwoa-web/wcwoa-web.iml" />
+    </modules>
+  </component>
+</project>
